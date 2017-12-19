@@ -1,0 +1,1 @@
+print "kartik gandhi" + "**" + "karan nagpal"
